@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @ChuksJoy
-- 👀 I’m interested in Data Analytics and Finance
-- 🌱 I’m currently learning Spreadsheet, SQL, Tableau, R, all beginner technical tools used by data analysts with the Google Data Analytics course
-- 💞️ I’m looking to collaborate on any learning platform and simple beginner projects that will help me learn, and looking intern for any start up to practicalize my skills.
-- 📫 How to reach me; chuksnwosujoy@yahoo.com and Joy Chuks-nwosu on facebook
+- #👋 Hi, I’m Joy.
+- 👀 I’m breaking into data analytics from economic research.
 
+- 🌱 I’m currently learning:
+   * Python
+   * SQL
+   * Tableau
+   * R
+   * all beginner technical tools used by data analysts.
+
+- 📚 Recently completed the Google Data Analytics course.
+- Skills: Basic( R, SQL, Excel)
+
+- View my Portfolio [HERE](https://chuksivory.wixsite.com/portfolio)
+
+- 💞️ I’m looking to collaborate on any learning platform and simple beginner projects that will help me learn, and looking intern for any start up to practicalize my skills.
+
+
+-🙌🏻 Connect with Me
+   * 📫 chuksnwosujoy@yahoo.com
+   * [LinkedIn](https://www.linkedin.com/in/joychuksnwosu/)
+   * [Medium](https://medium.com/@chuksivory)
+   * [Kaggle](https://www.kaggle.com/ivoryj)
+
+📚 Projects
+Click [HERE](https://www.kaggle.com/ivoryj/code) for my projects 
 <!---
 ChuksJoy/ChuksJoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
