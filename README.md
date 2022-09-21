@@ -1,5 +1,4 @@
 - #👋 Hi, I’m Joy.
-- 👀 I’m breaking into data analytics from economic research.
 
 - 🌱 I’m currently learning:
    * Python
@@ -8,8 +7,10 @@
    * R
    * all beginner technical tools used by data analysts.
 
-- 📚 Recently completed the Google Data Analytics course.
-- Skills: Basic( R, SQL, Excel)
+- 📚 Recently completed the Google Data Analytics course. 
+- This Repository contains my Capstone Projects done on Kaggle.
+
+- My Technical Skills Include R, SQL, Excel and Basic Python
 
 - View my Portfolio [HERE](https://chuksivory.wixsite.com/portfolio)
 
